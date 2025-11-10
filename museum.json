@@ -1,0 +1,19 @@
+{
+  "museums": [
+    {
+      "name": "Seoul Museum of Art",
+      "city": "Seoul",
+      "description": "A leading public art museum showcasing modern and contemporary art."
+    },
+    {
+      "name": "National Museum of Korea",
+      "city": "Seoul",
+      "description": "The largest museum in Korea, displaying artifacts from prehistoric to modern times."
+    },
+    {
+      "name": "Busan Museum of Modern Art",
+      "city": "Busan",
+      "description": "Contemporary art museum focusing on global and local artists."
+    }
+  ]
+}
